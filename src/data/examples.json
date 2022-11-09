@@ -1,0 +1,116 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "outlook": "sunny",
+            "temperature": "hot",
+            "humidity": "high",
+            "wind": "weak",
+            "play tennis": "no"
+        },
+        {
+            "id": 2,
+            "outlook": "sunny",
+            "temperature": "hot",
+            "humidity": "high",
+            "wind": "strong",
+            "play tennis": "no"
+        },
+        {
+            "id": 3,
+            "outlook": "overcast",
+            "temperature": "hot",
+            "humidity": "high",
+            "wind": "weak",
+            "play tennis": "yes"
+        },
+        {
+            "id": 4,
+            "outlook": "rain",
+            "temperature": "mild",
+            "humidity": "high",
+            "wind": "weak",
+            "play tennis": "yes"
+        },
+        {
+            "id": 5,
+            "outlook": "rain",
+            "temperature": "cool",
+            "humidity": "normal",
+            "wind": "weak",
+            "play tennis": "yes"
+        },
+        {
+            "id": 6,
+            "outlook": "rain",
+            "temperature": "cool",
+            "humidity": "normal",
+            "wind": "strong",
+            "play tennis": "no"
+        },
+        {
+            "id": 7,
+            "outlook": "overcast",
+            "temperature": "cool",
+            "humidity": "normal",
+            "wind": "strong",
+            "play tennis": "yes"
+        },
+        {
+            "id": 8,
+            "outlook": "sunny",
+            "temperature": "mild",
+            "humidity": "high",
+            "wind": "weak",
+            "play tennis": "no"
+        },
+        {
+            "id": 9,
+            "outlook": "sunny",
+            "temperature": "cool",
+            "humidity": "normal",
+            "wind": "weak",
+            "play tennis": "yes"
+        },
+        {
+            "id": 10,
+            "outlook": "rain",
+            "temperature": "mild",
+            "humidity": "normal",
+            "wind": "weak",
+            "play tennis": "yes"
+        },
+        {
+            "id": 11,
+            "outlook": "sunny",
+            "temperature": "mild",
+            "humidity": "normal",
+            "wind": "strong",
+            "play tennis": "yes"
+        },
+        {
+            "id": 12,
+            "outlook": "overcast",
+            "temperature": "mild",
+            "humidity": "high",
+            "wind": "strong",
+            "play tennis": "yes"
+        },
+        {
+            "id": 13,
+            "outlook": "overcast",
+            "temperature": "hot",
+            "humidity": "normal",
+            "wind": "weak",
+            "play tennis": "yes"
+        },
+        {
+            "id": 14,
+            "outlook": "rain",
+            "temperature": "mild",
+            "humidity": "high",
+            "wind": "strong",
+            "play tennis": "no"
+        }
+    ]
+}
